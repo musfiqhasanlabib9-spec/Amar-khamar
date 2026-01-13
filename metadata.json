@@ -1,0 +1,7 @@
+{
+  "name": "Amar Khamar - Digital Agricultural Marketplace",
+  "description": "A farmer-centric digital marketplace platform for Bangladesh, designed for simplicity and trust. Farmers can sell directly to buyers with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
